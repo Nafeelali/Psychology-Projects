@@ -1,2 +1,0 @@
-# Psychology-Projects
-/fdf **dfh
