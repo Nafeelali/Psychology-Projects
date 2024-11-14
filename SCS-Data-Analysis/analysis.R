@@ -4,7 +4,7 @@ library(tidyverse)
 # Load the data
 data <- read.csv("SCS_data.csv")
 
-# Data cleaning: Remove invalid genders
+# Data cleaning: Keep only valid gender responses 
 data <- data %>%
   filter(gender %in% c(1, 2))  # Keep only Male (1) and Female (2)
 
