@@ -1,6 +1,6 @@
 # Sexual Comulsivitiy Scale Data Analyais
 ## Project Overview 
-This project explores open-source data from the Sexual Compulsivity Scale (SCS), developed by Kalichman and Rompa (1995). The SCS is a psychological measure designed to assess the extent of sexual compulsivity in individuals. The data used in this analysis comes from an online dataset provided by OpenPsychometrics.org, which includes answers to the SCS from individuals who volunteered to participate in the survey. The data includes the results of 10 items from the scale, as well as demographic information such as gender and age.
+This project explores open-source data from the Sexual Compulsivity Scale (SCS), developed by Kalichman and Rompa (1995). The SCS is a psychological measure designed to assess the extent of sexual compulsivity in individuals. The data used in this analysis comes from an online dataset provided by www.OpenPsychometrics.org, which includes answers to the SCS from individuals who volunteered to participate in the survey. The data includes the results of 10 items from the scale, as well as demographic information such as gender and age.
 ## Dataset 
 The dataset contains the following columns:
 - **Q1 - Q10**: Responses to the 10 items on the Sexual Compulsivity Scale, rated on a Likert scale (1 = Not at all like me, 4 = Very much like me).
