@@ -15,3 +15,30 @@ The goal of this project is to practice exploring data and understanding key pat
 - Conducting **exploratory data analysis (EDA)** to understand the distribution of the scores and identify any patterns in the data.
 - Examining potential **gender differences** in sexual compulsivity.
 - Investigating whether there is any correlation between **age** and sexual compulsivity scores.
+
+## Key Analyses
+
+- **Distribution of Scores**: I created histograms to visualize the distribution of sexual compulsivity scores.
+- **Gender Differences**: A t-test was performed to compare the scores between males and females.
+  
+### T-test Results
+- **t-statistic**: -0.61908
+- **p-value**: 0.5359
+- **95% Confidence Interval**: [-0.77, 0.40]
+- **Conclusion**: No statistically significant difference was found between male and female scores (p > 0.05).
+
+## Visualizations
+
+- **Histogram of Sexual Compulsivity Scores**  
+  ![Histogram](sexual_compulsivity_histogram.png)
+
+- **Boxplot of Sexual Compulsivity Scores by Gender**  
+  ![Boxplot](sexual_compulsivity_boxplot.png)
+
+## Code
+
+You can find the full analysis code in the `analysis.R` file.
+
+## Data Source
+
+The data used in this project comes from the [Sexual Compulsivity Scale dataset](https://openpsychometrics.org/_rawdata/).
