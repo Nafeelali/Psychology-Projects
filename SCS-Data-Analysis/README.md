@@ -43,5 +43,6 @@ You can find the full analysis code in the `analysis.R` file.
 
 The data used in this project comes from the [Sexual Compulsivity Scale dataset](https://openpsychometrics.org/_rawdata/).
 
-**Note on Gender Data**: 
+## Note on Gender Data
+
 For the purpose of this analysis, I chose to focus on Male (1) and Female (2) responses. "Other" (3) and "Not Answered" (0) were excluded, as it was simpler for me to work with just these two categories while I’m still learning how to handle more complex data structures. I recognize that gender is a diverse and multifaceted concept, and this decision was made for simplicity's sake. 
