@@ -1,0 +1,1 @@
+This project explores data collected from individuals who completed the Sexual Compulsivity Scale (SCS), a measure of sexual compulsivity. The analysis aims to explore patterns in sexual compulsivity and how it relates to variables such as age and gender.
