@@ -26,4 +26,4 @@ The following visualizations were generated and saved as `.png` files:
 3. **Study Hours vs GPA**: [study_hours_vs_gpa.png](study_hours_vs_gpa.png)
 4. **Sleep Hours vs GPA**: [sleep_hours_vs_gpa.png](sleep_hours_vs_gpa.png)
 5. **Physical Activity vs GPA**: [physical_activity_vs_gpa.png](physical_activity_vs_gpa.png)
-6. **Social Hours vs Stress Level**: [social_hours_vs_stress_level.png](social
+6. **Social Hours vs Stress Level**: [social_hours_vs_stress_level.png](social_hours_vs_stress_level.png)
