@@ -1,6 +1,6 @@
 # Student Lifestyle and Academic Performance Analysis
 
-This project analyzes the relationship between student lifestyle factors (e.g., study hours, sleep, physical activity) and academic performance (GPA) using a dataset of 2000 students.
+This project analyzes the relationship between student lifestyle factors (e.g., study hours, sleep, physical activity) and academic performance (GPA) using a dataset of 2000 students. The data used in this analysis comes from an online dataset provided by www.OpenPsychometrics.org.
 
 ## Dataset
 The dataset contains the following columns:
