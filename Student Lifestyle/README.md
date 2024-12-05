@@ -20,10 +20,22 @@ The dataset contains the following columns:
 4. **Social Hours and Stress Levels**: Higher stress levels are associated with fewer social hours.
 
 ## Visualizations
-The following visualizations were generated and saved as `.png` files:
-1. **Correlation Matrix**: [correlation_matrix.png](correlation_matrix.png)
-2. **Distribution of GPA**: [gpa_distribution.png](gpa_distribution.png)
-3. **Study Hours vs GPA**: [study_hours_vs_gpa.png](study_hours_vs_gpa.png)
-4. **Sleep Hours vs GPA**: [sleep_hours_vs_gpa.png](sleep_hours_vs_gpa.png)
-5. **Physical Activity vs GPA**: [physical_activity_vs_gpa.png](physical_activity_vs_gpa.png)
-6. **Social Hours vs Stress Level**: [social_hours_vs_stress_level.png](social_hours_vs_stress_level.png)
+The following visualizations were generated:
+
+### 1. Correlation Matrix
+![Correlation Matrix](correlation_matrix.png)
+
+### 2. Distribution of GPA
+![Distribution of GPA](gpa_distribution.png)
+
+### 3. Study Hours vs GPA
+![Study Hours vs GPA](study_hours_vs_gpa.png)
+
+### 4. Sleep Hours vs GPA
+![Sleep Hours vs GPA](sleep_hours_vs_gpa.png)
+
+### 5. Physical Activity vs GPA
+![Physical Activity vs GPA](physical_activity_vs_gpa.png)
+
+### 6. Social Hours vs Stress Level
+![Social Hours vs Stress Level](social_hours_vs_stress_level.png)
