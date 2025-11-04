@@ -4,6 +4,8 @@
 
 ### Overview
 
+I started working on this project during a 13-hour plane ride, as a way to teach myself how to handle and interpret real fMRI data (and to survive the flight - my laptop is currently balanced on a travel pillow like a makeshift standing desk). 😄😄
+
 This project aims to document my learning journey through analyzing functional MRI (fMRI) brain-activity data recorded while subjects listened to different genres of music.
 The project is inspired by Michael Casey’s paper **“Classifying the Brain on Music” (Frontiers in Psychology, 2017)** and the accompanying Kaggle competition.
 
